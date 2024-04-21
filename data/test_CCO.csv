@@ -1,0 +1,15 @@
+smiles,salt smiles,molality,temperature,mw
+[Cu]CCO[Au],O=S([N-]S(=O)(C(F)(F)F)=O)(C(F)(F)F)=O.[Li+],0.5,25,5.0
+[Cu]CCOCCO[Au],O=S([N-]S(=O)(C(F)(F)F)=O)(C(F)(F)F)=O.[Li+],0.5,25,5.0
+[Cu]CCOCCOCCO[Au],O=S([N-]S(=O)(C(F)(F)F)=O)(C(F)(F)F)=O.[Li+],0.5,25,5.0
+[Cu]CCOCCOCCOCCO[Au],O=S([N-]S(=O)(C(F)(F)F)=O)(C(F)(F)F)=O.[Li+],0.5,25,5.0
+[Cu]CCOCCOCCOCCOCCO[Au],O=S([N-]S(=O)(C(F)(F)F)=O)(C(F)(F)F)=O.[Li+],0.5,25,5.0
+[Cu]CCOCCOCCOCCOCCOCCO[Au],O=S([N-]S(=O)(C(F)(F)F)=O)(C(F)(F)F)=O.[Li+],0.5,25,5.0
+[Cu]CCOCCOCCOCCOCCOCCOCCO[Au],O=S([N-]S(=O)(C(F)(F)F)=O)(C(F)(F)F)=O.[Li+],0.5,25,5.0
+[Cu]CCOCCOCCOCCOCCOCCOCCOCCO[Au],O=S([N-]S(=O)(C(F)(F)F)=O)(C(F)(F)F)=O.[Li+],0.5,25,5.0
+[Cu]CCOCCOCCOCCOCCOCCOCCOCCOCCO[Au],O=S([N-]S(=O)(C(F)(F)F)=O)(C(F)(F)F)=O.[Li+],0.5,25,5.0
+[Cu]CCOCCOCCOCCOCCOCCOCCOCCOCCOCCO[Au],O=S([N-]S(=O)(C(F)(F)F)=O)(C(F)(F)F)=O.[Li+],0.5,25,5.0
+[Cu]CCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCO[Au],O=S([N-]S(=O)(C(F)(F)F)=O)(C(F)(F)F)=O.[Li+],0.5,25,5.0
+[Cu]CCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCO[Au],O=S([N-]S(=O)(C(F)(F)F)=O)(C(F)(F)F)=O.[Li+],0.5,25,5.0
+[Cu]CCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCO[Au],O=S([N-]S(=O)(C(F)(F)F)=O)(C(F)(F)F)=O.[Li+],0.5,25,5.0
+
