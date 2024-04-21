@@ -19,8 +19,11 @@ PATH_CHEM = os.getcwd()
 DATADIR = f"{PATH_CHEM}/data/cross_val_data"
 TYPE = "arr"
 MODELDIR = f"{PATH_CHEM}/models/screen"
-SAVEPATH = f"{PATH_CHEM}/data/polyinfo"
+SAVEPATH = f"{PATH_CHEM}/data/test_fun-3-Apr4"
+# SAVEPATH = f"{PATH_CHEM}/data/chem"
 PREDS_PATH = f"{DATADIR}/preds_screen"
+# PREDS_PATH = f"{DATADIR}/preds_chem"
+
 
 def train_and_predict(data_path, model_path, preds_path, gpu='false', gpu_number=0):
     if not os.path.exists(data_path):
@@ -90,7 +93,8 @@ if __name__ == "__main__":
     
     if args.make_data == "true":
         print("Creating the cross validation data files for training!")
-        make_screening_data(DATADIR, f'{PATH_CHEM}/data/polyinfo_5salts_4conc.csv')
+        # make_screening_data(DATADIR, f'{PATH_CHEM}/data/polyinfo_5salts_4conc.csv')
+        make_screening_data(DATADIR, f'{PATH_CHEM}/data/test_fun-3.csv')
     if args.train_predict == "true":
         print("Training loop begins!")
         train_and_predict(DATADIR, MODELDIR, PREDS_PATH, args.gpu) 
